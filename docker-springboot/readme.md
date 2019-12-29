@@ -1,0 +1,1 @@
+need to use the spring-cloud-demo-project for building the jar files.

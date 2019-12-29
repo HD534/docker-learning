@@ -1,0 +1,1 @@
+docker build -t="alpine-nginx:1.0" .

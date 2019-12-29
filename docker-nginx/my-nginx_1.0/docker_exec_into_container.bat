@@ -1,0 +1,1 @@
+docker exec -it e11675d98ac2 "bin/sh"

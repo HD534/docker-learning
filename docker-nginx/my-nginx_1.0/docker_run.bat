@@ -1,0 +1,1 @@
+docker run --name my-nginx -d -p 9096:80 my-nginx:1.0

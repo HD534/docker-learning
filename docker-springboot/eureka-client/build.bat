@@ -1,0 +1,1 @@
+docker build -t="eureka-client-demo:1.0" .

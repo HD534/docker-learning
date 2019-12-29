@@ -1,0 +1,1 @@
+docker build -t="my-nginx:1.0" .

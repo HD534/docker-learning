@@ -1,0 +1,1 @@
+docker build -t="eureka-server-demo:1.0" .
